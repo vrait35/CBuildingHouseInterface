@@ -1,0 +1,11 @@
+C:\Users\anuar\source\repos\BuildHouse\BuildHouse\bin\Debug\BuildHouse.exe.config
+C:\Users\anuar\source\repos\BuildHouse\BuildHouse\bin\Debug\BuildHouse.exe
+C:\Users\anuar\source\repos\BuildHouse\BuildHouse\bin\Debug\BuildHouse.pdb
+C:\Users\anuar\source\repos\BuildHouse\BuildHouse\bin\Debug\Classes.dll
+C:\Users\anuar\source\repos\BuildHouse\BuildHouse\bin\Debug\Interfaces.dll
+C:\Users\anuar\source\repos\BuildHouse\BuildHouse\bin\Debug\Classes.pdb
+C:\Users\anuar\source\repos\BuildHouse\BuildHouse\bin\Debug\Interfaces.pdb
+C:\Users\anuar\source\repos\BuildHouse\BuildHouse\obj\Debug\BuildHouse.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\BuildHouse\BuildHouse\obj\Debug\BuildHouse.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\BuildHouse\BuildHouse\obj\Debug\BuildHouse.exe
+C:\Users\anuar\source\repos\BuildHouse\BuildHouse\obj\Debug\BuildHouse.pdb
